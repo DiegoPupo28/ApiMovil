@@ -7,6 +7,6 @@ import com.cibertec.models.Solicitud;
 
 @Repository
 public interface ISolicitudRepository extends JpaRepository<Solicitud, Long> {
-  //hola
+  //hola mundo
 
 }
