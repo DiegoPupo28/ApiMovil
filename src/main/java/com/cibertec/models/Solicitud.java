@@ -62,6 +62,6 @@ public class Solicitud {
 		this.nombreLibro = nombreLibro;
 	}
 
-	
+	//hola
 	
 }
